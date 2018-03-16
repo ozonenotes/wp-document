@@ -10,4 +10,4 @@
 
 気付いたときやバージョンアップ時などに予告なく随時追記・更新していきます。
 
-https://bitbucket.org/ozonenotes/wp-document/wiki/Home
+https://github.com/ozonenotes/wp-document/wiki
